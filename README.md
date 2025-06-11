@@ -23,6 +23,11 @@
 
 > 💡 You can edit the parsed list and re-parse as many times as you need!
 
+```plaintext
+https://raw.githubusercontent.com/nilah-xiv/DRT-C/main/repo.json
+```
+
+
 **Example:**  
 ![Parsing Screenshot](https://github.com/user-attachments/assets/1285d1dc-70bc-4e32-99e4-e2c5e8b9b958)
 
