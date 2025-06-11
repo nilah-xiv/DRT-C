@@ -11,6 +11,14 @@
 
 ---
 
+### Enable Experimental Plugins  
+In Dalamud, go to `Settings → Experimental` and add this repo URL:
+
+```plaintext
+https://raw.githubusercontent.com/nilah-xiv/DRT-C/main/repo.json
+```
+
+
 ## 🧾 Parsing Users from Discord
 
 1. **Copy** and **paste** entries from Discord into the plugin.
@@ -22,6 +30,8 @@
 5. ✨ **Manually verify or adjust** entries as needed for best results.
 
 > 💡 You can edit the parsed list and re-parse as many times as you need!
+
+
 
 **Example:**  
 ![Parsing Screenshot](https://github.com/user-attachments/assets/1285d1dc-70bc-4e32-99e4-e2c5e8b9b958)
