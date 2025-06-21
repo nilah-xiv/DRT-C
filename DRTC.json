@@ -2,7 +2,7 @@
   "Author": "Nilah",
   "Name": "DRT-C",
   "InternalName": "DRTC",
-  "AssemblyVersion": "1.5.1.1",
+  "AssemblyVersion": "1.6.0.0",
   "Description": "Death Roll Tournament Control - Manage Challonge brackets in-game.",
   "ApplicableVersion": "any",
   "Tags": [
