@@ -2,7 +2,7 @@
   "Author": "Nilah",
   "Name": "DRT-C",
   "InternalName": "DRTC",
-  "AssemblyVersion": "1.5.0.0",
+  "AssemblyVersion": "1.5.1.0",
   "Description": "Death Roll Tournament Control - Manage Challonge brackets in-game.",
   "ApplicableVersion": "any",
   "Tags": [
@@ -19,6 +19,6 @@
   "ImageUrls": [],
   "IconUrl": "",
   "Punchline": "Death Roll Tournament - Challonge-Integrated",
-  "Changelog": "Initial release.",
+  "Changelog": "\n Added timers. \n Added Round Counter \n Further parser refinement",
   "AcceptsFeedback": true
 }
