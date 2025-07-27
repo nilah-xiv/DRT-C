@@ -1,5 +1,6 @@
 # 🎲 DRTC - Death Roll Tournament  
 ### *Challonge-Integrated Bracket Plugin for FFXIV*
+### *Now with an authorized user list!*
 
 ---
 
