@@ -1,5 +1,5 @@
-[
-{
+  [
+    {
     "Author": "Nilah Valoryn",
     "Name": "DRT-C",
     "InternalName": "DRTC",
@@ -17,5 +17,5 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "IsTestingPlugin": false
-  }
-]
+    }
+  ]
